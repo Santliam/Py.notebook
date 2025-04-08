@@ -63,7 +63,7 @@ Its clean and readable syntax makes it an excellent choice for beginners and pro
 |return|Returns a value from a function|
 |lambda|Creats a anonymous function|
 |import|Imports a module|
-|fron...import...|Imports specific parts of a module|
+|from...import...|Imports specific parts of a module|
 
 ### 📚Working with Collections
 |Commands|Common Methods|
