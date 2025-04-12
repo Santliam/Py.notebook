@@ -1,6 +1,6 @@
 # Directory - Python</br>
 
-![](Python/snakes_423066.png)
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="250">
 
 This directory works as a personal notebook to track my progress while learning **Python**.</br>
 All content will be describe in **English** as part of the learning process.
