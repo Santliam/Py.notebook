@@ -14,12 +14,7 @@ This space will be used to:
 
 Python is a powerful, **high-level**, and beginner-friendly **language** used in a wide range of areas, including:
 
-- Web Development
-- Data Science 
-- Machine Learning 
-- Automation 
-- Game Development 
-- Scripting and more...
+![](Media/pythonAplications.png)
 
 Its clean and readable syntax makes it an excellent choice for beginners and professionals. Python is cross-platform, open-source, and backed by a massive community and an extensive ecosystem of libraries.
 
