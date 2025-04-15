@@ -1,6 +1,6 @@
 <h1>
 TECH Notebook     
-  <img src="Media/Resume.png" align="right" height="380">
+  <img src="Media/Resume.png" align="right" height="300">
 </h1>
 
 
