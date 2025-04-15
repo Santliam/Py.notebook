@@ -4,11 +4,13 @@ input( ) & print( )
 <img src="Media/input_print.png" align="right" height="300">
 
 </h1>
-
+<br>
 With these functions, we can make a simple Python script much more dynamic and powerful, enabling interaction with the user.
 
 We will see how to use the input function to acquire input data provided by the user, as well as how to display information to users using the print function.
-
+<br>
+<br>
+<br>
 ## Data Input with the input( ) Function
 
 This is a very common technique in programming when we need the user to provide some kind of data to the program.
