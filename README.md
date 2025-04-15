@@ -1,5 +1,5 @@
 <h1>
-TECH Notebook     
+TECH Notebook // Python     
   <img src="Media/Resume.png" align="right" height="300">
 </h1>
 
