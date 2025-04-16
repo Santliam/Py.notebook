@@ -1,7 +1,7 @@
 <h1>
 input( ) & print( )
 
-<img src="Media/input_print.png" align="right" height="300">
+<img src="Media/input_print.png" align="right" height="370">
 
 </h1>
 <br>
